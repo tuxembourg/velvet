@@ -11,5 +11,5 @@ special functions:
   Shared wallet; shared wallet throughout every game
   
 Hosted links: 
-https://velvetcasino.vercel.app/ \n
+https://velvetcasino.vercel.app/
 https://ubiquitous-strudel-dbac07.netlify.app/
